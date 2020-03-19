@@ -16,5 +16,5 @@
 1. Sofreimos la cebolla en una sartén.
 1. Sofreímos el bacalao congelado en la misma sartén y lo vamos troceando mientas se cuece.
 1. Sacamos los garbanzos del bote, los escurrimos y aclaramos con un colador.
-1. Cuando el agua eche a hervir, echamos los garbanzos, el bacalao y la cebolla a la cazuela, opcionalmente podemos echar un puñado de fideos.
-1. Dejamos que hierva duirante 20 minutos.
+1. Cuando el agua hierva, echamos los garbanzos, el bacalao y la cebolla a la cazuela. Opcionalmente podemos echar un puñado de fideos.
+1. Dejamos que hierva durante 20 minutos.
