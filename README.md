@@ -2,6 +2,7 @@
 
 Listado de recetas sencillas para pasar la cuarentena.
 
-* [Garbanzos con bacalao](recipes/garbanzos-bacalao.md)
+* [Ajo arriero](recipes/ajo-arriero.md)
 * [Berenjenas rellenas](recipes/berenjenas-rellenas.md)
+* [Garbanzos con bacalao](recipes/garbanzos-bacalao.md)
 * [Sopa de ajo](recipes/sopa-ajo.md)
