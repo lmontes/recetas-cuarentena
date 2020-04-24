@@ -9,6 +9,13 @@
 * 1 o 2 dientes de ajo
 * Un huevo
 
+## Utensilios necesarios
+
+* Cazuela
+* Colador
+* Mortero y maza
+* Bol grande
+
 ## Elaboración
 
 1. Ponemos agua a hervir en una cazuela, aproximadamante 3/4 litro.

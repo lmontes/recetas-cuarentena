@@ -9,9 +9,15 @@
 * Garbanzos (bote 210g)
 * Fideos (opcional)
 
+## Utensilios necesarios
+
+* Cazuela
+* Sartén
+* Escurridor
+
 ## Elaboración
 
-1. Ponemos agua a hervir aproximadamante 1/2 litro.
+1. Ponemos agua a hervir en una cazuela aproximadamante 1/2 litro.
 1. Partimos media cebolla, la pelamos y cortamos en trozos.
 1. Sofreimos la cebolla en una sartén.
 1. Sofreímos el bacalao congelado en la misma sartén y lo vamos troceando mientas se cuece.

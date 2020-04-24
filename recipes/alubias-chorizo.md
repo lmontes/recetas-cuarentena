@@ -4,10 +4,15 @@
 
 ## Ingredientes para una persona
 
-* Medio bote de alubias
+* Medio bote de alubias cocidas
 * Media cebolla
 * Un chorizo
 * Caldo de carne
+
+## Utensilios necesarios
+
+* Cazuela
+* Sartén
 
 ## Elaboración
 

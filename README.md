@@ -7,5 +7,6 @@ Listado de recetas sencillas para pasar la cuarentena.
 * [Berenjenas rellenas](recipes/berenjenas-rellenas.md)
 * [Garbanzos con bacalao](recipes/garbanzos-bacalao.md)
 * [Guisantes con bacon](recipes/guisantes-bacon.md)
+* [Hummus](recipes/hummus.md)
 * [Lentejas](recipes/lentejas.md)
 * [Sopa de ajo](recipes/sopa-ajo.md)

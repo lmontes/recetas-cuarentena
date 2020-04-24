@@ -11,6 +11,10 @@
 * Sal
 * Colorante alimentario
 
+## Utensilios necesarios
+
+* Cazuela
+
 ## Elaboración
 
 1. Ponemos agua a hervir, aproximadamante 1/2 litro.

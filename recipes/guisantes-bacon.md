@@ -7,6 +7,10 @@
 * Un bote de guisantes
 * Bacon o jamón
 
+## Utensilios necesarios
+
+* Sartén
+
 ## Elaboración
 
 1. Cortamos el bacon en trozos pequeños, también podemos usar jamón.

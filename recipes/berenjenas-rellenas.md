@@ -11,6 +11,11 @@
 * Aceite de oliva
 * Sal
 
+
+## Utensilios necesarios
+
+* Bol para hacer la mezcla
+
 ## Elaboración
 
 1. Cortamos la berenjena por la mitad, cortamos las mitades en cuadrícula pero sin romper la piel.

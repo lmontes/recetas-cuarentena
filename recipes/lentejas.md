@@ -4,12 +4,18 @@
 
 ## Ingredientes para una persona
 
-* Medio bote de lentejas
+* Medio bote de lentejas cocidas o bote pequeño
 * Media cebolla
 * Un chorizo o longaniza
 * Caldo de carne
 * Una hoja de laurel
 * Un diente de ajo
+
+## Utensilios necesarios
+
+* Cazuela
+* Sartén
+* Escurridor
 
 ## Elaboración
 
