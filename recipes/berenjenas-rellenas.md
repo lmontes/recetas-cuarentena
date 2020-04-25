@@ -1,6 +1,6 @@
 # Berenjenas rellenas
 
-![](../images/berenjenas-rellenas-full.jpg)
+![](images/berenjenas-rellenas-full.jpg)
 
 ## Ingredientes para una persona
 
@@ -28,8 +28,8 @@
 
 ## Pasos intermedios
 
-![](../images/berenjenas-rellenas-step_01.jpg)
+![](images/berenjenas-rellenas-step_01.jpg)
 Berenjena tras cortarla en dados y calentarla 15 minutos en el microondas.
 
-![](../images/berenjenas-rellenas-step_02.jpg)
+![](images/berenjenas-rellenas-step_02.jpg)
 Berenjena tras realizar la mezcla de ingredientes.

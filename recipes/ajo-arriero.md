@@ -1,6 +1,6 @@
 # Ajo arriero
 
-![](../images/ajo-arriero-full.jpg)
+![](images/ajo-arriero-full.jpg)
 
 ## Ingredientes para una persona
 

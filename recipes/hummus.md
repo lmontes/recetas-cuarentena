@@ -1,6 +1,6 @@
 # Hummus
 
-![](../images/hummus-full.jpg)
+![](images/hummus-full.jpg)
 
 ## Ingredientes para una persona
 

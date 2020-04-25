@@ -1,6 +1,6 @@
 # Alubias con chorizo
 
-![](../images/alubias-chorizo-full.jpg)
+![](images/alubias-chorizo-full.jpg)
 
 ## Ingredientes para una persona
 

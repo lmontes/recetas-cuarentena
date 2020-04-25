@@ -1,6 +1,6 @@
 # Guisantes con bacon
 
-![](../images/guisantes-bacon-full.jpg)
+![](images/guisantes-bacon-full.jpg)
 
 ## Ingredientes para una persona
 

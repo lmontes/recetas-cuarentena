@@ -1,6 +1,6 @@
 # Garbanzos con bacalao
 
-![](../images/garbanzos-bacalao-full.jpg)
+![](images/garbanzos-bacalao-full.jpg)
 
 ## Ingredientes para una persona
 

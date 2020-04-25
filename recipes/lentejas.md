@@ -1,6 +1,6 @@
 # Lentejas
 
-![](../images/lentejas-full.jpg)
+![](images/lentejas-full.jpg)
 
 ## Ingredientes para una persona
 

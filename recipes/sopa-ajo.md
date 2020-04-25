@@ -1,6 +1,6 @@
 # Sopa de ajo
 
-![](../images/sopa-ajo-full.jpg)
+![](images/sopa-ajo-full.jpg)
 
 ## Ingredientes para una persona
 
