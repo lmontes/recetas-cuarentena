@@ -1,4 +1,4 @@
-# Lata de atún
+# Atún
 
 ## Referencias
 

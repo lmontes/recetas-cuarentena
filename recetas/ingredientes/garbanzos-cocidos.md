@@ -1,4 +1,4 @@
-# Bote de garbanzos cocidos
+# Garbanzos cocidos
 
 ## Referencias
 

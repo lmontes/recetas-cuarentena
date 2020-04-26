@@ -1,4 +1,4 @@
-# Bote de guisantes
+# Guisantes
 
 ## Referencias
 
