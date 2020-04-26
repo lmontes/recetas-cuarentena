@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Lata de atún](ingredientes/lata-atun.md)
+* [Lata de atún](ingredientes/atun.md)
 * Una berenjena
 * Tomate frito
 * Queso rallado

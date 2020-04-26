@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Bote de garbanzos cocidos](ingredientes/bote-garbanzos-cocidos.md) pequeño
+* [Bote de garbanzos cocidos](ingredientes/garbanzos-cocidos.md) pequeño
 * [Pimentón dulce](ingredientes/pimenton-dulce.md)
 * [Comino molido](ingredientes/comino.md)
 * Medio limón

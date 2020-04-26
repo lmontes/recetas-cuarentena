@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Bote de alubias blancas cocidas](ingredientes/bote-alubias-blancas-cocidas.md) pequeño
+* [Bote de alubias blancas cocidas](ingredientes/alubias-blancas-cocidas.md) pequeño
 * [Caldo de carne](ingredientes/caldo-carne.md)
 * Media cebolla
 * Un chorizo

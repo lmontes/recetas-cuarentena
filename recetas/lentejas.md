@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Bote de lentejas cocidas](ingredientes/bote-lentejas-cocidas.md) pequeño
+* [Bote de lentejas cocidas](ingredientes/lentejas-cocidas.md) pequeño
 * Una [hoja de laurel](ingredientes/laurel.md)
 * [Caldo de carne](ingredientes/caldo-carne.md)
 * Media cebolla

@@ -1,6 +1,10 @@
-# Bote de lentejas cocidas
+# Lentejas cocidas
 
 ## Referencias
+
+### Consum
+
+* [Bote de lentejas cocidas grande](https://tienda.consum.es/consum/producto/luengo-lenteja-cocida-pardina-frasco/p-7042000)
 
 ### Mercadona 
 

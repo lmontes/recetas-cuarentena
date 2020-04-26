@@ -1,6 +1,10 @@
-# Bote de alubias blancas cocidas
+# Alubias blancas cocidas
 
 ## Referencias
+
+### Consum
+
+* [Bote de alubias blancas cocidas grande](https://tienda.consum.es/consum/producto/luengo-alubia-blanca-cocida-frasco/p-7042369)
 
 ### Mercadona 
 

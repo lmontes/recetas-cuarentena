@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Bote de garbanzos cocidos](ingredientes/bote-garbanzos-cocidos.md) pequeño
+* [Bote de garbanzos cocidos](ingredientes/garbanzos-cocidos.md) pequeño
 * Trozo de [bacalao congelado](ingredientes/bacalao-congelado.md)
 * Media cebolla
 * [Fideos](ingredientes/fideos.md) (opcional)

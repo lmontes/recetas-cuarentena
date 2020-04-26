@@ -4,7 +4,7 @@
 
 ## Ingredientes para una persona
 
-* [Lata de anchoas](ingredientes/anchoas.md) o [lata de atún](ingredientes/lata-atun.md)
+* [Lata de anchoas](ingredientes/anchoas.md) o [lata de atún](ingredientes/atun.md)
 * 3 o 4 patatas medianas
 * 1 o 2 dientes de ajo
 * Un huevo
