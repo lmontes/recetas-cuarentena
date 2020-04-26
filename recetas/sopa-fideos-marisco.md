@@ -1,13 +1,13 @@
 # Sopa de fideos con marisco
 
-![](images/sopa-fideos-marisco-full.jpg)
+![](imagenes/sopa-fideos-marisco-full.jpg)
 
 ## Ingredientes para una persona
 
-* [Preparado para paella y sopa](ingredients/preparado-paella-sopa.md)
-* [Colorante alimentario](ingredients/colorante-alimentario.md)
+* [Preparado para paella y sopa](ingredientes/preparado-paella-sopa.md)
+* [Colorante alimentario](ingredientes/colorante-alimentario.md)
+* [Fideos](ingredientes/fideos.md)
 * Diente de ajo
-* Fideos
 * Sal
 
 ## Utensilios necesarios

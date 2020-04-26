@@ -1,13 +1,13 @@
 # Garbanzos con bacalao
 
-![](images/garbanzos-bacalao-full.jpg)
+![](imagenes/garbanzos-bacalao-full.jpg)
 
 ## Ingredientes para una persona
 
-* [Bote de garbanzos cocidos](ingredients/bote-garbanzos-cocidos.md) pequeño
-* Trozo de [bacalao congelado](ingredients/bacalao-congelado.md)
+* [Bote de garbanzos cocidos](ingredientes/bote-garbanzos-cocidos.md) pequeño
+* Trozo de [bacalao congelado](ingredientes/bacalao-congelado.md)
 * Media cebolla
-* Fideos (opcional)
+* [Fideos](ingredientes/fideos.md) (opcional)
 
 ## Utensilios necesarios
 

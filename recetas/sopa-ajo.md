@@ -1,11 +1,11 @@
 # Sopa de ajo
 
-![](images/sopa-ajo-full.jpg)
+![](imagenes/sopa-ajo-full.jpg)
 
 ## Ingredientes para una persona
 
-* [Filete de merluza congelada](ingredients/filetes-merluza-congelada.md)
-* [Colorante alimentario](ingredients/colorante-alimentario.md)
+* [Filete de merluza congelada](ingredientes/filetes-merluza-congelada.md)
+* [Colorante alimentario](ingredientes/colorante-alimentario.md)
 * 2 o tres dientes de ajo
 * Pan duro
 * Un huevo

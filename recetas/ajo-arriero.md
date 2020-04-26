@@ -1,10 +1,10 @@
 # Ajo arriero
 
-![](images/ajo-arriero-full.jpg)
+![](imagenes/ajo-arriero-full.jpg)
 
 ## Ingredientes para una persona
 
-* [Lata de anchoas](ingredients/anchoas.md) o [lata de atún](ingredients/lata-atun.md)
+* [Lata de anchoas](ingredientes/anchoas.md) o [lata de atún](ingredientes/lata-atun.md)
 * 3 o 4 patatas medianas
 * 1 o 2 dientes de ajo
 * Un huevo

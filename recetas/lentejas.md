@@ -1,12 +1,12 @@
 # Lentejas
 
-![](images/lentejas-full.jpg)
+![](imagenes/lentejas-full.jpg)
 
 ## Ingredientes para una persona
 
-* [Bote de lentejas cocidas](ingredients/bote-lentejas-cocidas.md) pequeño
-* Una [hoja de laurel](ingredients/laurel.md)
-* [Caldo de carne](ingredients/caldo-carne.md)
+* [Bote de lentejas cocidas](ingredientes/bote-lentejas-cocidas.md) pequeño
+* Una [hoja de laurel](ingredientes/laurel.md)
+* [Caldo de carne](ingredientes/caldo-carne.md)
 * Media cebolla
 * Un chorizo o longaniza
 * Un diente de ajo

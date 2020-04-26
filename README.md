@@ -2,11 +2,12 @@
 
 Listado de recetas sencillas para pasar la cuarentena.
 
-* [Ajo arriero](recipes/ajo-arriero.md)
-* [Alubias con chorizo](recipes/alubias-chorizo.md)
-* [Berenjenas rellenas](recipes/berenjenas-rellenas.md)
-* [Garbanzos con bacalao](recipes/garbanzos-bacalao.md)
-* [Guisantes con bacon](recipes/guisantes-bacon.md)
-* [Hummus](recipes/hummus.md)
-* [Lentejas](recipes/lentejas.md)
-* [Sopa de ajo](recipes/sopa-ajo.md)
+* [Ajo arriero](recetas/ajo-arriero.md)
+* [Alubias con chorizo](recetas/alubias-chorizo.md)
+* [Berenjenas rellenas](recetas/berenjenas-rellenas.md)
+* [Garbanzos con bacalao](recetas/garbanzos-bacalao.md)
+* [Guisantes con bacon](recetas/guisantes-bacon.md)
+* [Hummus](recetas/hummus.md)
+* [Lentejas](recetas/lentejas.md)
+* [Sopa de ajo](recetas/sopa-ajo.md)
+* [Sopa de fideos con marisco](recetas/sopa-fideos-marisco.md)
