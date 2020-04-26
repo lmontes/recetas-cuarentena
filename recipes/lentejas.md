@@ -4,11 +4,11 @@
 
 ## Ingredientes para una persona
 
-* Medio bote de lentejas cocidas o bote pequeño
+* [Bote de lentejas cocidas](ingredients/bote-lentejas-cocidas.md) pequeño
+* Una [hoja de laurel](ingredients/laurel.md)
+* [Caldo de carne](ingredients/caldo-carne.md)
 * Media cebolla
 * Un chorizo o longaniza
-* Caldo de carne
-* Una hoja de laurel
 * Un diente de ajo
 
 ## Utensilios necesarios

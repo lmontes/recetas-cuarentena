@@ -4,8 +4,8 @@
 
 ## Ingredientes para una persona
 
-* Un bote de guisantes
-* Bacon o jamón
+* [Bote de guisantes](ingredients/bote-guisantes.md)
+* [Bacon](ingredients/bacon.md) o jamón
 
 ## Utensilios necesarios
 

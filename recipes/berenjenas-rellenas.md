@@ -4,13 +4,12 @@
 
 ## Ingredientes para una persona
 
+* [Lata de atún](ingredients/lata-atun.md)
 * Una berenjena
-* Una lata de atún
 * Tomate frito
 * Queso rallado
 * Aceite de oliva
 * Sal
-
 
 ## Utensilios necesarios
 

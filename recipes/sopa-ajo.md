@@ -4,12 +4,12 @@
 
 ## Ingredientes para una persona
 
-* Trozo de merluza congelada
-* Pan duro
+* [Filete de merluza congelada](ingredients/filetes-merluza-congelada.md)
+* [Colorante alimentario](ingredients/colorante-alimentario.md)
 * 2 o tres dientes de ajo
+* Pan duro
 * Un huevo
 * Sal
-* Colorante alimentario
 
 ## Utensilios necesarios
 

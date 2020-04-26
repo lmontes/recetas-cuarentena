@@ -4,10 +4,10 @@
 
 ## Ingredientes para una persona
 
-* Medio bote de alubias cocidas
+* [Bote de alubias blancas cocidas](ingredients/bote-alubias-blancas-cocidas.md) pequeño
+* [Caldo de carne](ingredients/caldo-carne.md)
 * Media cebolla
 * Un chorizo
-* Caldo de carne
 
 ## Utensilios necesarios
 

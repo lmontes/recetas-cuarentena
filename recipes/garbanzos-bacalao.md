@@ -4,9 +4,9 @@
 
 ## Ingredientes para una persona
 
-* Trozo de bacalao congelado
+* [Bote de garbanzos cocidos](ingredients/bote-garbanzos-cocidos.md) pequeño
+* Trozo de [bacalao congelado](ingredients/bacalao-congelado.md)
 * Media cebolla
-* Garbanzos (bote 210g)
 * Fideos (opcional)
 
 ## Utensilios necesarios

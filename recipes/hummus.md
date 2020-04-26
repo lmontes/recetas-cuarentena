@@ -4,11 +4,11 @@
 
 ## Ingredientes para una persona
 
-* Garbanzos cocidos (bote 210g)
+* [Bote de garbanzos cocidos](ingredients/bote-garbanzos-cocidos.md) pequeño
+* [Pimentón dulce](ingredients/pimenton-dulce.md)
+* [Comino molido](ingredients/comino.md)
 * Medio limón
 * Diente de ajo
-* Pimentón dulce en polvo
-* Comino en polvo
 * Aceite de oliva
 
 ## Utensilios necesarios
