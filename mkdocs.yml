@@ -19,7 +19,13 @@ plugins:
   - search
   - img2fig
   - section-index
-  
+
+nav:
+  - Índice: index.md
+  - Recetas: recetas/index.md
+  - Ingredientes: ingredientes/index.md
+  - Acerca de: about.md
+
 
 extra_css:
   - css/extra.css

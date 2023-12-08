@@ -27,4 +27,4 @@
 1. Echamos media cucharada pequeña de comino en polvo y otra media de pimentón dulce.
 1. Echamos un poco de aceite y el zumo de limón exprimido.
 1. Trituramos los ingredientes con la batidora, podemos echar más aceite o unas gotas de agua si vemos que sale muy espeso.
-1. Para servir podemos poner unas cucharadas en un plato con un chorro de aceite y un poco de pimentón dulce.
+1. Para servir podemos poner unas cucharadas en un plato con un chorro de aceite y espolvorear un poco de pimentón dulce por encima.
