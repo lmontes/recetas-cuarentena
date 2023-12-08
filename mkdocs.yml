@@ -1,0 +1,18 @@
+site_name: Recetas cuarentena
+docs_dir: docs
+use_directory_urls: false
+
+theme:
+  name: material
+  language: es
+  # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette:
+    primary: deep purple
+
+markdown_extensions:
+  - admonition
+
+plugins:
+  - search
+  - section-index
+  - img2fig

@@ -1,36 +1,29 @@
 # Recetas de cuarentena
 
-Listado de recetas sencillas para pasar la cuarentena.
+Este repositorio contiene un listado de recetas de cocina sencillas hechas para pasar la cuarentena durante el confinamiento por Covid-19 en el año 2020.
 
-## Recetas
+[Visualizar las recetas]()
 
-* [Ajo arriero](recetas/ajo-arriero.md)
-* [Alubias con chorizo](recetas/alubias-chorizo.md)
-* [Berenjenas rellenas](recetas/berenjenas-rellenas.md)
-* [Garbanzos con bacalao](recetas/garbanzos-bacalao.md)
-* [Guisantes con bacon](recetas/guisantes-bacon.md)
-* [Hummus](recetas/hummus.md)
-* [Lentejas](recetas/lentejas.md)
-* [Sopa de ajo](recetas/sopa-ajo.md)
-* [Sopa de fideos con marisco](recetas/sopa-fideos-marisco.md)
+## Desarrollo
 
-## Ingredientes
+Crear entorno e instalar librerías
 
-En esta sección se muestran las fichas de ingredientes disponibles, en cada ficha se han añadido uno o varios enlaces con las referencias de los productos en diferentes supermercados.
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt 
+```
 
-* [Alubias blancas cocidas](recetas/ingredientes/alubias-blancas-cocidas.md)
-* [Anchoas](recetas/ingredientes/anchoas.md)
-* [Atún](recetas/ingredientes/atun.md)
-* [Bacalao congelado](recetas/ingredientes/bacalao-congelado.md)
-* [Bacon](recetas/ingredientes/bacon.md)
-* [Caldo de carne](recetas/ingredientes/caldo-carne.md)
-* [Colorante alimentario](recetas/ingredientes/colorante-alimentario.md)
-* [Comino](recetas/ingredientes/comino.md)
-* [Fideos](recetas/ingredientes/fideos.md)
-* [Filetes de merluza congelada](recetas/ingredientes/filetes-merluza-congelada.md)
-* [Garbanzos cocidos](recetas/ingredientes/garbanzos-cocidos.md)
-* [Guisantes](recetas/ingredientes/guisantes.md)
-* [Laurel](recetas/ingredientes/laurel.md)
-* [Lentejas cocidas](recetas/ingredientes/lentejas-cocidas.md)
-* [Pimentón dulce](recetas/ingredientes/pimenton-dulce.md)
-* [Preparado de paella y sopa](recetas/ingredientes/preparado-paella-sopa.md)
+Mostrar documentación en navegador web
+
+```bash
+mkdocs serve
+```
+
+Ir a http://127.0.0.1:8000 para ver la doumentación.
+
+
+## Tecnologías
+
+* [Mkdocs](https://www.mkdocs.org)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)

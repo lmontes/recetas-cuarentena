@@ -1,13 +1,12 @@
 # Ajo arriero
 
-![](imagenes/ajo-arriero-full.jpg)
+![](../img/ajo-arriero-full.jpg)
 
-## Ingredientes para una persona
-
-* [Lata de anchoas](ingredientes/anchoas.md) o [lata de atún](ingredientes/atun.md)
-* 3 o 4 patatas medianas
-* 1 o 2 dientes de ajo
-* Un huevo
+!!!important "Ingredientes para una persona"
+    * [Lata de anchoas](../ingredientes/anchoas.md) o [lata de atún](../ingredientes/atun.md)
+    * 3 o 4 patatas medianas
+    * 1 o 2 dientes de ajo
+    * Un huevo
 
 ## Utensilios necesarios
 
@@ -18,8 +17,8 @@
 
 ## Elaboración
 
-1. Ponemos agua a hervir en una cazuela, aproximadamante 3/4 litro.
-1. Pelamos las patatas y las troceamos para que se cuezan más rápido. 
+1. Ponemos agua a hervir en una cazuela, aproximadamente 3/4 litro.
+1. Pelamos las patatas y las troceamos para que la cocción sea más rápida. 
 1. Cuando el agua hierva echamos las patatas en la cazuela.
 1. En un mortero picamos uno o dos dientes de ajo, podemos echarle un poco de aceite a la mezcla si queremos.
 1. Cuando las patatas estén hervidas las sacamos de la cazuela y las escurrimos.

@@ -1,11 +1,10 @@
 # Guisantes con bacon
 
-![](imagenes/guisantes-bacon-full.jpg)
+![](../img/guisantes-bacon-full.jpg)
 
-## Ingredientes para una persona
-
-* [Bote de guisantes](ingredientes/guisantes.md)
-* [Bacon](ingredientes/bacon.md) o jamón
+!!!important "Ingredientes para una persona"
+    * [Bote de guisantes](../ingredientes/guisantes.md)
+    * [Bacon](../ingredientes/bacon.md) o jamón
 
 ## Utensilios necesarios
 

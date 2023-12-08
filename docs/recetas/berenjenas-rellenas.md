@@ -1,15 +1,14 @@
 # Berenjenas rellenas
 
-![](imagenes/berenjenas-rellenas-full.jpg)
+![](../img/berenjenas-rellenas-full.jpg)
 
-## Ingredientes para una persona
-
-* [Lata de atún](ingredientes/atun.md)
-* Una berenjena
-* Tomate frito
-* Queso rallado
-* Aceite de oliva
-* Sal
+!!!important "Ingredientes para una persona"
+    * [Lata de atún](../ingredientes/atun.md)
+    * Una berenjena
+    * Tomate frito
+    * Queso rallado
+    * Aceite de oliva
+    * Sal
 
 ## Utensilios necesarios
 
@@ -27,8 +26,6 @@
 
 ## Pasos intermedios
 
-![](imagenes/berenjenas-rellenas-step_01.jpg)
-Berenjena tras cortarla en dados y calentarla 15 minutos en el microondas.
+![Berenjena tras cortarla en dados y calentarla 15 minutos en el microondas](../img/berenjenas-rellenas-step_01.jpg)
 
-![](imagenes/berenjenas-rellenas-step_02.jpg)
-Berenjena tras realizar la mezcla de ingredientes.
+![Berenjena tras realizar la mezcla de ingredientes](../img/berenjenas-rellenas-step_02.jpg)

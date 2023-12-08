@@ -1,13 +1,12 @@
 # Garbanzos con bacalao
 
-![](imagenes/garbanzos-bacalao-full.jpg)
+![](../img/garbanzos-bacalao-full.jpg)
 
-## Ingredientes para una persona
-
-* [Bote de garbanzos cocidos](ingredientes/garbanzos-cocidos.md) pequeño
-* Trozo de [bacalao congelado](ingredientes/bacalao-congelado.md)
-* Media cebolla
-* [Fideos](ingredientes/fideos.md) (opcional)
+!!!important "Ingredientes para una persona"
+    * [Bote de garbanzos cocidos](../ingredientes/garbanzos-cocidos.md) pequeño
+    * Trozo de [bacalao congelado](../ingredientes/bacalao-congelado.md)
+    * Media cebolla
+    * [Fideos](../ingredientes/fideos.md) (opcional)
 
 ## Utensilios necesarios
 
@@ -17,7 +16,7 @@
 
 ## Elaboración
 
-1. Ponemos agua a hervir en una cazuela aproximadamante 1/2 litro.
+1. Ponemos agua a hervir en una cazuela aproximadamente 1/2 litro.
 1. Partimos media cebolla, la pelamos y cortamos en trozos.
 1. Sofreimos la cebolla en una sartén.
 1. Sofreímos el bacalao congelado en la misma sartén y lo vamos troceando mientas se cuece.

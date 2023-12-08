@@ -1,15 +1,14 @@
 # Hummus
 
-![](imagenes/hummus-full.jpg)
+![](../img/hummus-full.jpg)
 
-## Ingredientes para una persona
-
-* [Bote de garbanzos cocidos](ingredientes/garbanzos-cocidos.md) pequeño
-* [Pimentón dulce](ingredientes/pimenton-dulce.md)
-* [Comino molido](ingredientes/comino.md)
-* Medio limón
-* Diente de ajo
-* Aceite de oliva
+!!!important "Ingredientes para una persona"
+    * [Bote de garbanzos cocidos](../ingredientes/garbanzos-cocidos.md) pequeño
+    * [Pimentón dulce](../ingredientes/pimenton-dulce.md)
+    * [Comino molido](../ingredientes/comino.md)
+    * Medio limón
+    * Diente de ajo
+    * Aceite de oliva
 
 ## Utensilios necesarios
 
