@@ -1,8 +1,9 @@
 # Lentejas
 
-![](../img/lentejas-full.jpg)
+![Lentejas](../img/lentejas-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Bote de lentejas cocidas](../ingredientes/lentejas-cocidas.md) pequeño
     * Una [hoja de laurel](../ingredientes/laurel.md)
     * [Caldo de carne](../ingredientes/caldo-carne.md)
@@ -10,11 +11,11 @@
     * Un chorizo o longaniza
     * Un diente de ajo
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Cazuela
-* Sartén
-* Escurridor
+    * Cazuela
+    * Sartén
+    * Escurridor
 
 ## Elaboración
 

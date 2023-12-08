@@ -1,17 +1,18 @@
 # Alubias con chorizo
 
-![](../img/alubias-chorizo-full.jpg)
+![Alubias con chorizo](../img/alubias-chorizo-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Bote de alubias blancas cocidas](../ingredientes/alubias-blancas-cocidas.md) pequeño
     * [Caldo de carne](../ingredientes/caldo-carne.md)
     * Media cebolla
     * Un chorizo
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Cazuela
-* Sartén
+    * Cazuela
+    * Sartén
 
 ## Elaboración
 

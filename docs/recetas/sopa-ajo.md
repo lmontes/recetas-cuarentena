@@ -1,8 +1,9 @@
 # Sopa de ajo
 
-![](../img/sopa-ajo-full.jpg)
+![Sopa de ajo](../img/sopa-ajo-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Filete de merluza congelada](../ingredientes/filetes-merluza-congelada.md)
     * [Colorante alimentario](../ingredientes/colorante-alimentario.md)
     * 2 o tres dientes de ajo
@@ -10,9 +11,9 @@
     * Un huevo
     * Sal
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Cazuela
+    * Cazuela
 
 ## Elaboración
 

@@ -1,8 +1,9 @@
-# Hummus
+# Hummus de garbanzos
 
-![](../img/hummus-full.jpg)
+![Hummus de garbanzos](../img/hummus-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Bote de garbanzos cocidos](../ingredientes/garbanzos-cocidos.md) pequeño
     * [Pimentón dulce](../ingredientes/pimenton-dulce.md)
     * [Comino molido](../ingredientes/comino.md)
@@ -10,12 +11,12 @@
     * Diente de ajo
     * Aceite de oliva
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Batidora
-* Vaso para batidora
-* Exprimidor
-* Colador
+    * Batidora
+    * Vaso para batidora
+    * Exprimidor
+    * Colador
 
 ## Elaboración
 

@@ -1,19 +1,20 @@
 # Ajo arriero
 
-![](../img/ajo-arriero-full.jpg)
+![Ajo arriero](../img/ajo-arriero-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Lata de anchoas](../ingredientes/anchoas.md) o [lata de atún](../ingredientes/atun.md)
     * 3 o 4 patatas medianas
     * 1 o 2 dientes de ajo
     * Un huevo
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Cazuela
-* Colador
-* Mortero y maza
-* Bol grande
+    * Cazuela
+    * Colador
+    * Mortero y maza
+    * Bol grande
 
 ## Elaboración
 

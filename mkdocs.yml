@@ -4,6 +4,8 @@ use_directory_urls: false
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/book
   language: es
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
   palette:
@@ -11,8 +13,13 @@ theme:
 
 markdown_extensions:
   - admonition
+  - pymdownx.superfences
 
 plugins:
   - search
-  - section-index
   - img2fig
+  - section-index
+  
+
+extra_css:
+  - css/extra.css

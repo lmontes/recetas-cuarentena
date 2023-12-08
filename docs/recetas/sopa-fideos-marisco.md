@@ -1,18 +1,19 @@
 # Sopa de fideos con marisco
 
-![](../img/sopa-fideos-marisco-full.jpg)
+![Sopa de fideos con marisco](../img/sopa-fideos-marisco-full.jpg)
 
-!!!important "Ingredientes para una persona"
+!!!ingredients "Ingredientes para una persona"
+
     * [Preparado para paella y sopa](../ingredientes/preparado-paella-sopa.md)
     * [Colorante alimentario](../ingredientes/colorante-alimentario.md)
     * [Fideos](../ingredientes/fideos.md)
     * Diente de ajo
     * Sal
 
-## Utensilios necesarios
+!!!utensils "Utensilios necesarios"
 
-* Cazuela
-* Sartén
+    * Cazuela
+    * Sartén
 
 ## Elaboración
 
@@ -23,4 +24,4 @@
 1. Sofreimos los trozos de marisco con el ajo en una sartén.
 1. Cuando el agua hierva, echamos el sofrito a la cazuela.
 1. Echamos sobre medio vaso de fideos a la cazuela.
-1. Echamos colorante alimentario, un poco de sal y dejamos hervir unos 15 o 20 minutos hasta que los fideos estén cocidos. 
+1. Echamos colorante alimentario, un poco de sal y dejamos hervir unos 15 o 20 minutos hasta que los fideos estén cocidos.
