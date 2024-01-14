@@ -16,5 +16,6 @@ En esta sección se muestran las fichas de ingredientes disponibles, en cada fic
 1. [Guisantes](guisantes.md)
 1. [Laurel](laurel.md)
 1. [Lentejas cocidas](lentejas-cocidas.md)
+1. [Levadura fresca](levadura-fresca.md)
 1. [Pimentón dulce](pimenton-dulce.md)
 1. [Preparado de paella y sopa](preparado-paella-sopa.md)
